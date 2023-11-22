@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm MD ASHFAQUE ALAM</h1>
-<h3 align="center">A passionate frontend"Architecting Seamless DevOps Solutions: Ashfaque's Journey in Streamlining Development, Deployment, and Operations" developer from India</h3>
+<h3 align="center">A passionate frontend"Architecting Seamless DevOps Solutions: Ashfaque's Journey in Streamlining Development, Deployment, and Operations" from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3FMbGo1dlRiTVB1bWNHN05WZlZLR0tObUl6Z3xBQ3Jtc0tsQXBRbml0ZW4tb0daOFBwazRzQkI4dFlzMGhlbDhrdS1vbE1pNnpHQmhRdFdkTmoxdkxnLXkyMTRtQWNVY3UtWHJKaVZ0eXE1bUloY1ZYYVU4Q2tiOExVZ1hwNWNBZVZSNGs2UXhmV3VucUNWTkZTdw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **DevOps Tools**
+- 🌱 I’m currently working as a **DevOps Enginer**
 
-- 💬 Ask me about **GitHub, Jenkins, Kubernetes, Terraform etc**
+- 💬 Ask me about **GitHub, Jenkins, Docker, Ansible, Kubernetes, Terraform etc**
 
 - 📫 How to reach me **ashfaque786.md@gmail.com**
 
